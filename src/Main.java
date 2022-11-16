@@ -65,7 +65,7 @@ public class Main {
 
         ///С помощью метода проверить, является ли этот год високосным.
 
-        int currentYear = 2023;
+        int currentYear = 2024;
         checkYearMethod(currentYear);
 
 
